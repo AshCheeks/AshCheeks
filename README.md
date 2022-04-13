@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AshCheeks
+- 👋 Hi, I’m @AshCheeks a.k.a Ashley Dela Rosa
 - 👀 I’m interested in Movies, Video-Games, Anime, and Tech.
 - 🌱 I’m currently learning Web and Full-Stack Development.
 - 💞️ I’m looking to collaborate on a wide variety of projects. Web design, game-development,and etc. 
